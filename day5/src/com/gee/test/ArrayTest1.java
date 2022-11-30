@@ -3,7 +3,7 @@ package com.gee.test;
 public class ArrayTest1 {
     public static void main(String[] args) {
         /*定义一个数组，存储1，2，3，4，5
-         * 遍历数组得到每一个元素，并求和*/
+         遍历数组得到每一个元素，并求和*/
 //        分析：
 //        1.定义一个数组，并添加数据
         int[] arr = {1, 2, 3, 4, 5};
