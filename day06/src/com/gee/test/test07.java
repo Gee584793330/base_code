@@ -9,6 +9,7 @@ public class test07 {
 
 //        判断值是否存在
         Scanner sc =new Scanner(System.in);
+        System.out.print("输入一个整数：");
         int num=sc.nextInt();
         boolean flag2=contains(arr,num);
         System.out.println(flag2);
